@@ -1,0 +1,23 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "default modules for Hangman-CLI game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeitsoo/Hangman-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makeitsoo/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/makeitsoo/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "is-letter": "^1.1.1"
+  }
+}
